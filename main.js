@@ -9,7 +9,7 @@ window.onload = function(){
   }, 250)
 
   setInterval(function(){
-    // set a breakpoint here
+    // set a breakpoint here 
   }, 249)
 
   for(var i = 0; i < squares_htmlcollection.length; i++){
